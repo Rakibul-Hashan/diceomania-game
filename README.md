@@ -1,7 +1,3 @@
-Here's an example of a **README.md** file for your **Diceomania Game** project on GitHub:
-
----
-
 # 🎲 Diceomania Game 🎲
 
 Welcome to **Diceomania**, an exciting two-player dice game where the thrill of strategy meets luck! The objective is simple: Roll the dice, accumulate points, and be the first to reach 100. But watch out! If you roll a 1, you lose your current score!
@@ -36,7 +32,3 @@ Welcome to **Diceomania**, an exciting two-player dice game where the thrill of 
 - Adding multiplayer functionality over the web.
 - Implementing sound effects for dice rolls and winning moments.
 - Customizable game settings, like adjusting the winning score or adding more players.
-
----
-
-Feel free to add any extra features or ideas! If you want, I can help refine this further.
